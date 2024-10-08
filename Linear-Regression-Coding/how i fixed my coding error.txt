@@ -1,0 +1,5 @@
+in this file I will explain how I fixed some of the errors that I encountered in my notebook:
+
+
+when I started to set up my working coding environment I ran into a few errors, such as when I tried to use "plt.style.use("seaborn-whitegrid")" 
+I got an error, to fix this error I printed the styles that are available and in the printed list "seaborn-whitegrid" was not in the list, but there was a style called "seaborn-0_8-white" when I changed the plt.style.use to use "seaborn-0_8-white" I fixed the error
