@@ -1,0 +1,15 @@
+Below is a list of things I learned throughout the development of this linear regression model:
+
+1. How to write a piece of code to plot some points onto a graph using Python.
+
+2. At the start of this project I was trying to set up my coding working environment and I was running into a few syntax errors but eventually I solved these issues.
+
+3. In order to see if my data is good for using the linear regression model I fitted a line to my data. 
+                        
+4. While I was trying to fit a line to my data, I found the code to be a bit confusing but after numerous hours of analysing the code I started to understand what it was doing.
+
+5. Until this point I had only whole numbers plotted onto a graph with a line fitted to the data. So I decided to get some data online to input into my model. 
+
+6. I got some football data online, this data contained some data that I wanted to use for my model. So I wrote some python code to extract the data that I wanted to put into my model. 
+                        
+7. After I extracted the data that I wanted I inserted that into my linear regression model and from there I made the data bigger and smaller to see how my python graph could change. 
