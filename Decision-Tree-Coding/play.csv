@@ -1,0 +1,9 @@
+number,play,outlook,humidity,wind,temp
+1,yes,sun,50,TRUE,20
+2,yes,rain,60,TRUE,12
+3,no,overcast,70,FALSE,12
+4,yes,rain ,89,FALSE,15
+5,no,sun,90,TRUE,8
+6,no,overcast,24,TRUE,3
+7,yes,rain,44,TRUE,14
+8,yes,rain,22,FALSE,23
